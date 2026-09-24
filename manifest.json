@@ -1,8 +1,0 @@
-{
-"name":"ひらがな音読ゲーム",
-"short_name":"ひらがな",
-"start_url":"./index.html",
-"display":"standalone",
-"background_color":"#111111",
-"theme_color":"#111111"
-}
